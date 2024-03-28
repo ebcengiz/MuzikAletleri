@@ -1,0 +1,97 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  background-color: #e9ecef;
+}
+
+.benim-rengim {
+  background-color: #3f0071;
+}
+.benim-rengim2 {
+  color: #edb5f5;
+}
+
+.myNavBar .navbar-toggler {
+  background-color: #edb5f5;
+}
+
+.mainBasliklar {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #0002a1;
+}
+
+.mySubTitle {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #332fd0;
+}
+
+.card .card-body .card-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  color: #0002a1;
+}
+
+.myCardTexts {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #332fd0;
+}
+
+.container-fluid .myNavBar {
+  background-color: #3f0071;
+}
+
+.myNavBarMainTitle {
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.container-fluid .navbar .container-fluid .myNavBarMainTitle {
+  color: #edb5f5;
+  /* color: #b1e8ed; */
+}
+
+#anasayfa {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #edb5f5;
+}
+
+#hakkimizda {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  color: #edb5f5;
+}
+
+.jumbotron ul li {
+  color: #332fd0;
+}
+
+.bullet {
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  margin-right: 5px;
+  color: #332fd0;
+}
+
+#myBtnHakkimizda {
+  background-color: #3f0071;
+  color: #edb5f5;
+  border: none;
+}
+
+#myBtnHakkimizda:hover {
+  background-color: #0002a1;
+  color: #e9ecef;
+}
